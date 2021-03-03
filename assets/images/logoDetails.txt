@@ -1,0 +1,9 @@
+color1: #3871c1 (blue)
+color2: #90d347 (green)
+
+logo Size: 325px X 260px
+
+Ak-Coder Text:
+	> color: color1
+	> font: RR BEAVER
+	> font-size: 70px
